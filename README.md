@@ -19,26 +19,78 @@
 
 <h2>Installation Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+Lets start with creating a Resource Group.
+
+1.
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Resource.png?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+2.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Resource%202nd.png?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+3.
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Resource%203rd.png?raw=true)
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+4.
 </p>
 <br />
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Resource%204th.png?raw=true)
+</p>
+<p>
+
+Now that we have our Resource group created, let's move on to creating our first of three distinctive Virtual Machines.
+  
+1.
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%201st.png?raw=true)
+</p>
+<p>
+2.
+</p>
+<br />
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%202nd.png?raw=true)
+</p>
+<p>
+3.
+</p>
+<br />
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%203rd.png?raw=true)
+</p>
+<p>
+4.
+</p>
+<br />
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%204th.png?raw=true)
+</p>
+<p>
+5.
+</p>
+<br />
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%205th.png?raw=true)
+</p>
+<p>
+6.
+</p>
+<br />
+
+![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%206th.png?raw=true)
+</p>
+<p>
+7.
+</p>
+<br />
+
+![test]
