@@ -1,6 +1,4 @@
-<p align="center">
-![](https://github.com/matthewpriddy/azure-vm-resource/blob/main/header.PNG?raw=true)
-</p>
+![Test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/header.PNG?raw=true)
 
 
 
