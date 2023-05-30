@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
+![](https://github.com/matthewpriddy/azure-vm-resource/blob/main/header.PNG?raw=true)
 </p>
 
 
