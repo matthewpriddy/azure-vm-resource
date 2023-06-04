@@ -48,7 +48,7 @@ Lets start with creating a Resource Group.
 </p>
 <p>
 
-Now that we have our Resource group created, let's move on to creating our first of three distinctive Virtual Machines.
+Now that we have our Resource group created, let's move on to deploying our first of three distinctive Virtual Machines. The first will be a Windows 10 Virtual Machine.
   
 1.
 ![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%201st.png?raw=true)
@@ -79,7 +79,7 @@ Now that we have our Resource group created, let's move on to creating our first
 </p>
 <br />
 
-![test](https://github.com/matthewpriddy/azure-vm-resource/blob/main/Create%20Virtual%20Machine%205th.png?raw=true)
+![test]()
 </p>
 <p>
 6.
