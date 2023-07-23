@@ -244,4 +244,4 @@ Enter "VM2" as the Username and the password you created for this machine (disre
 
 - - - -
 
-Congratulations, you are now logged in. This concludes this tutorial.
+Congratulations, you are now logged in. In conclusion to this tutorial, bear in mind all the potential uses for deploying virtual machines. They are commonly used for the purposes of helpdesk ticketing operations, active directory operations, etc..
